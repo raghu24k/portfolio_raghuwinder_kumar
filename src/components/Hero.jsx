@@ -1,4 +1,5 @@
 // javascript
+// this is hero jsx file 
 import React from 'react';
 import { portfolioData } from '../data';
 
